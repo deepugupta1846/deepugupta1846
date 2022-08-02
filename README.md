@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **deepugupta1846/deepugupta1846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +17,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Deepu Kumar</h1>
 <h3 align="center">👨‍💻 I’m interested in Software Development</h3>
+- 🌱 I’m currently learning **Full Stack Development**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepugupta1846&label=Profile%20views&color=0e75b6&style=flat" alt="deepugupta1846" /> </p>
 
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
