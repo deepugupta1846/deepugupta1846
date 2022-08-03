@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![programmer](https://user-images.githubusercontent.com/69181889/182535549-3c96fd97-1797-410f-a46c-28ad6c8c31b9.gif width=200)
-
+<img src="[https://user-images.githubusercontent.com/69181889/182535549-3c96fd97-1797-410f-a46c-28ad6c8c31b9.gif]" width="200" height="400" />
 <h1 align="center">Hi 👋, I'm Deepu Kumar</h1>
 <h3>👨‍💻 I’m interested in Software Development</h3>
 🌱 I’m currently learning **Full Stack Development**
