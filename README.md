@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Deepu Kumar</h1>
-*<h3>👨‍💻 I’m interested in Software Development</h3>
-* 🌱 I’m currently learning **Full Stack Development**
+<h3>👨‍💻 I’m interested in Software Development</h3>
+🌱 I’m currently learning **Full Stack Development**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepugupta1846&label=Profile%20views&color=0e75b6&style=flat" alt="deepugupta1846" /> </p>
 
