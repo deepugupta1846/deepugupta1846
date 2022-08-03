@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 <h3>👨‍💻 I’m interested in Software Development</h3>
 🌱 I’m currently learning **Full Stack Development**
 
-
-
 💬 Ask me about Html , Css , JavaScript , React Js
+
 
 📫 How to reach me: dk1846266@gmail.com
 
