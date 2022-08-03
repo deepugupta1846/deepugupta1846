@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Deepu Kumar</h1>
 <h3>👨‍💻 I’m interested in Software Development</h3>
 🌱 I’m currently learning **Full Stack Development**
+💬 Ask me about Html , Css , JavaScript , React Js
 
 
 
@@ -25,8 +26,7 @@ Here are some ideas to get you started:
 
 
 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/deepu-kumar-61606a1b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepu-kumar-61606a1b9" height="30" width="40" /></a>
 <a href="https://discord.gg/deepugupta#9770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="deepugupta#9770" height="30" width="40" /></a>
