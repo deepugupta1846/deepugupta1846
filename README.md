@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif" width="400" height="400" align="center" />
+<img align="center" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif" width="400" height="400"  />
 <h1 align="center">Hi 👋, I'm Deepu Kumar</h1>
 <h3>👨‍💻 I’m interested in Software Development</h3>
 🌱 I’m currently learning **Full Stack Development**
